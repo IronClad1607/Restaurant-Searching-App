@@ -13,7 +13,7 @@ const ResultsList = ({ title, results }) => {
           console.log(result.id);
         }}
         renderItem={({ item }) => {
-        return <Text>{item.name}</Text>
+          return <Text>{item.name}</Text>;
         }}
       />
     </View>
