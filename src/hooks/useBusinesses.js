@@ -5,7 +5,6 @@ export default () => {
   const [results, setResults] = useState([]);
   const [error, setError] = useState("");
 
-  console.log(`search term: ${searchTerm}`);
   const searchApi = async (term) => {
     console.log("Hi There");
     try {
