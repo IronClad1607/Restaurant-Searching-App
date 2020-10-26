@@ -24,7 +24,7 @@
     "react-navigation-stack": "^2.8.4"
   },
   "devDependencies": {
-    "@babel/core": "~7.12.1"
+    "@babel/core": "~7.12.3"
   },
   "private": true
 }
